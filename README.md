@@ -3,10 +3,15 @@ Smarthome for Michael T
 
 ## Objekter:
 Lys - tænd, sluk, skift farve
+
 Varme - skrues op og ned
+
 Fjersyn - tænd, sluk
+
 Vindue - åben, luk
+
 Musik - tænd, sluk
+
 Te - koges kl 6
 
 ## Use cases:
