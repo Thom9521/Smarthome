@@ -63,3 +63,6 @@ OnOff.java (Interface)
 
 ## UML:
 ![Alt uml](https://github.com/Thom9521/Smarthome/blob/master/uml/Udklip.PNG)
+
+## S.O.L.I.D:
+
