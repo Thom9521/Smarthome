@@ -34,4 +34,3 @@ OnOff.java (Interface)
 
 ## UML:
 ![Alt uml](https://github.com/Thom9521/Smarthome/blob/master/uml/Udklip.PNG)
-![Alt Billeder:](https://github.com/mich282q/Smarthome/blob/master/Billeder/Udklip.PNG)
