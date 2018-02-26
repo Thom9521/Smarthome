@@ -62,7 +62,7 @@ Te.java
 OnOff.java (Interface)
 
 ## UML:
-![Alt uml](https://github.com/Thom9521/Smarthome/blob/master/uml/UML.PNG)
+![Alt uml](https://github.com/Thom9521/Smarthome/blob/master/uml/UML.png)
 
 ## S.O.L.I.D:
 
