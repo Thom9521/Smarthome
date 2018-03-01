@@ -3,6 +3,9 @@ public class Hus {
     private Vindue[] vinduer = new Vindue[5];
     private Lys[] lys = new Lys[10];
     private Varme[] varme = new Varme[3];
+    private Fjernsyn fjernsyn = new Fjernsyn();
+    private Musik musik = new Musik();
+    private Te te = new Te();
 
     public Hus(){
         Lokation stue = new Lokation("Stuen");
