@@ -31,35 +31,25 @@ Når klokken bliver 6 så koges vandet til teen
 ## Java klasser:
 Main.java
 
-Lys.java (abstract)
+Hus.java
 
-LysBadeværelse.java (subclass)
+Lys.java
 
-LysSoveværelse.java (subclass)
-
-LysStuen.java (subclass)
-
-Varme.java (abstract)
-
-VarmeSoveværelse.java (subclass)
-
-VarmeStuen.java (subclass)
+Varme.java 
 
 Fjernsyn.java
 
-Vindue.java (abstract)
-
-VindueSoveværelse.java (subclass)
-
-VindueBadeværelse.java (subclass)
-
-VindueStuen.java (subclass)
+Vindue.java 
 
 Musik.java
 
 Te.java
 
+Lokation.java
+
 OnOff.java (Interface)
+
+SmarthomeDAO.java (Interface)
 
 ## UML:
 ![Alt uml](https://github.com/Thom9521/Smarthome/blob/master/uml/UML.png)
